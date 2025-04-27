@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+openai
+chromadb
+python-dotenv
+pydantic
+tqdm
+requests
+PyMuPDF
+requests
