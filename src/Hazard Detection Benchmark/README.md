@@ -5,7 +5,7 @@
 pip install -r requirements.txt
 ```
 
-2. Set up Gemini API key:
+2. Set up API key:
 ```bash
 cp .env.example .env
 # Edit .env and add your API key
